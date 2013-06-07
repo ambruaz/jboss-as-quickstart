@@ -185,6 +185,8 @@
 
     <build>
     
+        <defaultGoal>package</defaultGoal>
+    
         <finalName>${project.artifactId}</finalName>
         <plugins>
             <!-- Force Java 6 -->
